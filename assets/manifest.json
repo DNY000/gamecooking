@@ -1,0 +1,530 @@
+[
+  {
+    "file": "assets/backgrounds/restaurant_interior_day.png",
+    "name": "restaurant_interior_day",
+    "category": "backgrounds",
+    "width": 1536,
+    "height": 1024,
+    "transparent": false
+  },
+  {
+    "file": "assets/characters/customers/backpacker.png",
+    "name": "backpacker",
+    "category": "characters/customers",
+    "width": 192,
+    "height": 464,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/cat.png",
+    "name": "cat",
+    "category": "characters/customers",
+    "width": 212,
+    "height": 194,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/cyclo_driver.png",
+    "name": "cyclo_driver",
+    "category": "characters/customers",
+    "width": 268,
+    "height": 479,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/expressions/customer_angry.png",
+    "name": "customer_angry",
+    "category": "characters/customers/expressions",
+    "width": 220,
+    "height": 301,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/expressions/customer_delighted.png",
+    "name": "customer_delighted",
+    "category": "characters/customers/expressions",
+    "width": 268,
+    "height": 313,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/expressions/customer_impatient.png",
+    "name": "customer_impatient",
+    "category": "characters/customers/expressions",
+    "width": 264,
+    "height": 314,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/expressions/customer_satisfied.png",
+    "name": "customer_satisfied",
+    "category": "characters/customers/expressions",
+    "width": 234,
+    "height": 312,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/expressions/customer_waiting.png",
+    "name": "customer_waiting",
+    "category": "characters/customers/expressions",
+    "width": 219,
+    "height": 302,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/food_critic.png",
+    "name": "food_critic",
+    "category": "characters/customers",
+    "width": 162,
+    "height": 476,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/market_woman.png",
+    "name": "market_woman",
+    "category": "characters/customers",
+    "width": 201,
+    "height": 411,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/office_worker.png",
+    "name": "office_worker",
+    "category": "characters/customers",
+    "width": 217,
+    "height": 442,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/old_man.png",
+    "name": "old_man",
+    "category": "characters/customers",
+    "width": 159,
+    "height": 449,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/schoolboy.png",
+    "name": "schoolboy",
+    "category": "characters/customers",
+    "width": 149,
+    "height": 347,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/schoolgirl.png",
+    "name": "schoolgirl",
+    "category": "characters/customers",
+    "width": 156,
+    "height": 320,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/customers/soldier.png",
+    "name": "soldier",
+    "category": "characters/customers",
+    "width": 146,
+    "height": 451,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/ba_tu_front.png",
+    "name": "ba_tu_front",
+    "category": "characters/main",
+    "width": 177,
+    "height": 504,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/ba_tu_three_quarter.png",
+    "name": "ba_tu_three_quarter",
+    "category": "characters/main",
+    "width": 187,
+    "height": 506,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/expressions/na_focused.png",
+    "name": "na_focused",
+    "category": "characters/main/expressions",
+    "width": 169,
+    "height": 257,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/expressions/na_happy.png",
+    "name": "na_happy",
+    "category": "characters/main/expressions",
+    "width": 162,
+    "height": 264,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/expressions/na_proud.png",
+    "name": "na_proud",
+    "category": "characters/main/expressions",
+    "width": 171,
+    "height": 255,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/expressions/na_surprised.png",
+    "name": "na_surprised",
+    "category": "characters/main/expressions",
+    "width": 160,
+    "height": 257,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/expressions/na_tired.png",
+    "name": "na_tired",
+    "category": "characters/main/expressions",
+    "width": 173,
+    "height": 254,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/expressions/na_worried.png",
+    "name": "na_worried",
+    "category": "characters/main/expressions",
+    "width": 160,
+    "height": 255,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/na_back.png",
+    "name": "na_back",
+    "category": "characters/main",
+    "width": 194,
+    "height": 564,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/na_front.png",
+    "name": "na_front",
+    "category": "characters/main",
+    "width": 198,
+    "height": 579,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/na_side.png",
+    "name": "na_side",
+    "category": "characters/main",
+    "width": 175,
+    "height": 564,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/na_three_quarter.png",
+    "name": "na_three_quarter",
+    "category": "characters/main",
+    "width": 210,
+    "height": 566,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/rig_parts/na_arm_left.png",
+    "name": "na_arm_left",
+    "category": "characters/main/rig_parts",
+    "width": 52,
+    "height": 126,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/rig_parts/na_arm_right.png",
+    "name": "na_arm_right",
+    "category": "characters/main/rig_parts",
+    "width": 56,
+    "height": 127,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/rig_parts/na_body.png",
+    "name": "na_body",
+    "category": "characters/main/rig_parts",
+    "width": 112,
+    "height": 345,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/rig_parts/na_leg_left.png",
+    "name": "na_leg_left",
+    "category": "characters/main/rig_parts",
+    "width": 49,
+    "height": 113,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/rig_parts/na_leg_right.png",
+    "name": "na_leg_right",
+    "category": "characters/main/rig_parts",
+    "width": 51,
+    "height": 113,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/ti_run_tray.png",
+    "name": "ti_run_tray",
+    "category": "characters/main",
+    "width": 174,
+    "height": 462,
+    "transparent": true
+  },
+  {
+    "file": "assets/characters/main/ti_stand_tray.png",
+    "name": "ti_stand_tray",
+    "category": "characters/main",
+    "width": 147,
+    "height": 485,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/bamboo_stool.png",
+    "name": "bamboo_stool",
+    "category": "items/decor",
+    "width": 223,
+    "height": 181,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/bamboo_table.png",
+    "name": "bamboo_table",
+    "category": "items/decor",
+    "width": 299,
+    "height": 241,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/bird_cage.png",
+    "name": "bird_cage",
+    "category": "items/decor",
+    "width": 145,
+    "height": 261,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/dong_ho_rooster_painting.png",
+    "name": "dong_ho_rooster_painting",
+    "category": "items/decor",
+    "width": 198,
+    "height": 211,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/potted_plant.png",
+    "name": "potted_plant",
+    "category": "items/decor",
+    "width": 200,
+    "height": 259,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/rattan_lamp.png",
+    "name": "rattan_lamp",
+    "category": "items/decor",
+    "width": 154,
+    "height": 227,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/decor/red_lantern.png",
+    "name": "red_lantern",
+    "category": "items/decor",
+    "width": 125,
+    "height": 240,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/food/banh_cuon.png",
+    "name": "banh_cuon",
+    "category": "items/food",
+    "width": 296,
+    "height": 215,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/food/bun_cha.png",
+    "name": "bun_cha",
+    "category": "items/food",
+    "width": 314,
+    "height": 215,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/food/bun_rieu.png",
+    "name": "bun_rieu",
+    "category": "items/food",
+    "width": 249,
+    "height": 231,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/food/pho_bo.png",
+    "name": "pho_bo",
+    "category": "items/food",
+    "width": 243,
+    "height": 240,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/food/pho_ga.png",
+    "name": "pho_ga",
+    "category": "items/food",
+    "width": 235,
+    "height": 236,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/food/tra_da.png",
+    "name": "tra_da",
+    "category": "items/food",
+    "width": 123,
+    "height": 230,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/ingredients/herbs.png",
+    "name": "herbs",
+    "category": "items/ingredients",
+    "width": 271,
+    "height": 210,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/ingredients/lime_chili.png",
+    "name": "lime_chili",
+    "category": "items/ingredients",
+    "width": 202,
+    "height": 140,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/ingredients/raw_beef.png",
+    "name": "raw_beef",
+    "category": "items/ingredients",
+    "width": 276,
+    "height": 184,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/ingredients/rice_noodles.png",
+    "name": "rice_noodles",
+    "category": "items/ingredients",
+    "width": 247,
+    "height": 189,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/ingredients/scallions.png",
+    "name": "scallions",
+    "category": "items/ingredients",
+    "width": 230,
+    "height": 176,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/ingredients/spices.png",
+    "name": "spices",
+    "category": "items/ingredients",
+    "width": 235,
+    "height": 144,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/noodle_basket_lv1.png",
+    "name": "noodle_basket_lv1",
+    "category": "items/upgrades",
+    "width": 105,
+    "height": 199,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/noodle_basket_lv2.png",
+    "name": "noodle_basket_lv2",
+    "category": "items/upgrades",
+    "width": 166,
+    "height": 213,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/noodle_basket_lv3.png",
+    "name": "noodle_basket_lv3",
+    "category": "items/upgrades",
+    "width": 186,
+    "height": 222,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/pot_lv1.png",
+    "name": "pot_lv1",
+    "category": "items/upgrades",
+    "width": 165,
+    "height": 160,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/pot_lv2.png",
+    "name": "pot_lv2",
+    "category": "items/upgrades",
+    "width": 189,
+    "height": 193,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/pot_lv3.png",
+    "name": "pot_lv3",
+    "category": "items/upgrades",
+    "width": 216,
+    "height": 214,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/stove_lv1.png",
+    "name": "stove_lv1",
+    "category": "items/upgrades",
+    "width": 152,
+    "height": 171,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/stove_lv2.png",
+    "name": "stove_lv2",
+    "category": "items/upgrades",
+    "width": 117,
+    "height": 197,
+    "transparent": true
+  },
+  {
+    "file": "assets/items/upgrades/stove_lv3.png",
+    "name": "stove_lv3",
+    "category": "items/upgrades",
+    "width": 160,
+    "height": 135,
+    "transparent": true
+  },
+  {
+    "file": "assets/props/palm_fan.png",
+    "name": "palm_fan",
+    "category": "props",
+    "width": 94,
+    "height": 107,
+    "transparent": true
+  },
+  {
+    "file": "assets/props/pho_bowl_tray.png",
+    "name": "pho_bowl_tray",
+    "category": "props",
+    "width": 154,
+    "height": 165,
+    "transparent": true
+  },
+  {
+    "file": "assets/props/strainer_basket.png",
+    "name": "strainer_basket",
+    "category": "props",
+    "width": 90,
+    "height": 135,
+    "transparent": true
+  }
+]
